@@ -1,5 +1,5 @@
 {
-  "name": "api-meu-condominio",
+  "name": "api-tinder-dev",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EversonDelmaschio/api-meu-condominio.git"
+    "url": "git+https://github.com/EversonDelmaschio/api-tinder-dev.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EversonDelmaschio/api-meu-condominio/issues"
+    "url": "https://github.com/EversonDelmaschio/api-tinder-dev/issues"
   },
-  "homepage": "https://github.com/EversonDelmaschio/api-meu-condominio#readme"
+  "homepage": "https://github.com/EversonDelmaschio/api-tinder-dev#readme"
 }
